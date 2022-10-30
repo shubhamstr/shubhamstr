@@ -1,6 +1,6 @@
 Hi there :wave:, I am Shubham!
 
-Hello, my name is Shubham Sutar. I am a Full-Stack Web Developer with 1.8 years of experience working as a Product Engineer at vInnovate Technologies. And currently i am working at Drona Pay as a React Developer. My technology stack involves PHP, React Js, JavaScript, HTML/CSS/Bootstrap, Laravel.
+Hello, my name is Shubham Sutar. I am a Full-Stack Web Developer with 2 years of experience. And currently i am working at Drona Pay as a React Developer. My technology stack involves PHP, React Js, JavaScript, HTML/CSS/Bootstrap, Laravel.
 
 :mailbox: How to reach me: shubhamsutar5799@gmail.com
 
