@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there :wave:, I am Shubham!</h1>
-<h3 align="center">Hello, my name is Shubham Sutar. I am a Self-Taught Full-Stack Developer with 2 years of experience. And currently i am working at Drona Pay as a React Developer. My technology stack involves PHP, React Js, JavaScript, HTML/CSS/Bootstrap, Laravel.</h3>
+<h3 align="center">Hello, my name is Shubham Sutar. I am a Self-Taught Full-Stack Developer with 2 years of experience. And currently i am working at Stackmint as a Software Developer. My technology stack involves PHP, React Js, JavaScript, HTML/CSS/Bootstrap, Laravel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" /> </p>
 
