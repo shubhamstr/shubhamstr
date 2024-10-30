@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there :wave:, I am Shubham!</h1>
-<h3 align="center">Hello, My name is Shubham Sutar. I am a Self-Taught Full-Stack Developer with 3 years of experience. And currently I am working as a Senior Product Engineer at vInnovate Technologies. My technology stack involves PHP, React Js, JavaScript, HTML/CSS/JavaScript, Laravel, CodeIgniter, Bootstrap, Node Js, etc.</h3>
+<h3 align="center">Hello, My name is Shubham Sutar. I am a Self-Taught Full-Stack Developer with 3 years of experience. And currently I am working as a Senior Product Engineer at vInnovate Technologies. My technology stack involves React Js, Node Js, JavaScript, PHP, Laravel, CodeIgniter, Bootstrap, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamstr" alt="shubhamstr" /></a> </p>
 
-- 🌱 I’m currently working on **Laravel**
+- 🌱 I’m currently working on **MERN Stack**
 
 - 📫 How to reach me **shubhamsutar5799@gmail.com**
 
