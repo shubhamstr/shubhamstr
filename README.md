@@ -1,13 +1,20 @@
 
-<h1 align="center">Hi there :wave:, I am Shubham!</h1>
-<h3 align="center">I’m a Self-Taught Full-Stack Developer with 5+ years of experience building scalable web applications and products.
-Currently working as a Senior Product Engineer at vInnovate Technologies, where I focus on designing and developing high-quality, performance-driven solutions.</h3>
+<h1 align="center">Hi 👋, I'm Shubham Sutar</h1>
+<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + DevOps + PHP + React Native)</h3>
 
-<h5>💻 Tech Stack & Expertise:</h5>
-<p>Frontend: React.js, JavaScript, Bootstrap, Tailwind CSS</p>
-<p>Backend: Node.js (Express), PHP (Laravel, CodeIgniter)</p>
-<p>Databases: MongoDB, MySQL</p>
-<p>Others: REST APIs, System Design, CI/CD, Docker, React Native</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" />
+</p>
+
+---
+
+### 💡 About Me
+- 💻 5+ years of experience in Full-Stack Development  
+- 🏢 Senior Product Engineer at **vInnovate Technologies**  
+- 🌱 Currently building scalable apps using **MERN Stack**  
+- ⚡ Passionate about performance, clean architecture & real-world products  
+
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" /> </p>
@@ -50,28 +57,7 @@ Currently working as a Senior Product Engineer at vInnovate Technologies, where 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamstr&" alt="shubhamstr" /></p>
 
-<h1 align="center">Hi 👋, I'm Shubham Sutar</h1>
-<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + PHP)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamstr&theme=algolia&margin-w=10&margin-h=10" />
-  </a>
-</p>
-
----
-
-### 💡 About Me
-- 💻 5+ years of experience in Full-Stack Development  
-- 🏢 Senior Product Engineer at **vInnovate Technologies**  
-- 🌱 Currently building scalable apps using **MERN Stack**  
-- ⚡ Passionate about performance, clean architecture & real-world products  
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
