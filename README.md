@@ -50,6 +50,73 @@ Currently working as a Senior Product Engineer at vInnovate Technologies, where 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamstr&" alt="shubhamstr" /></p>
 
+<h1 align="center">Hi 👋, I'm Shubham Sutar</h1>
+<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + PHP)</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamstr&theme=algolia&margin-w=10&margin-h=10" />
+  </a>
+</p>
+
+---
+
+### 💡 About Me
+- 💻 5+ years of experience in Full-Stack Development  
+- 🏢 Senior Product Engineer at **vInnovate Technologies**  
+- 🌱 Currently building scalable apps using **MERN Stack**  
+- ⚡ Passionate about performance, clean architecture & real-world products  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/shubhamstr" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.leetcode.com/shubhamstr" target="blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,php,laravel,mongodb,mysql,html,css,bootstrap,git,docker,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamstr&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamstr&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamstr&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamstr&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🎯 Goals
+- 🌍 Work on global-scale products  
+- 🇯🇵 Explore career opportunities in Japan  
+- 🚀 Grow into a system design & architecture expert  
+
 
 
 
