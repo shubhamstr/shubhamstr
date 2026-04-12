@@ -4,10 +4,10 @@
 Currently working as a Senior Product Engineer at vInnovate Technologies, where I focus on designing and developing high-quality, performance-driven solutions.</h3>
 
 <h5>💻 Tech Stack & Expertise:</h5>
-<p>Frontend: React.js, JavaScript, Bootstrap</p>
-<p>Backend: Node.js, PHP (Laravel, CodeIgniter)</p>
+<p>Frontend: React.js, JavaScript, Bootstrap, Tailwind CSS</p>
+<p>Backend: Node.js (Express), PHP (Laravel, CodeIgniter)</p>
 <p>Databases: MongoDB, MySQL</p>
-<p>Others: REST APIs, System Design, CI/CD</p>
+<p>Others: REST APIs, System Design, CI/CD, Docker, React Native</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" /> </p>
