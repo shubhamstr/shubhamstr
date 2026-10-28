@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Sutar</h1>
-<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + Next.js + Python + CI/CD)</h3>
+<h3 align="center">🚀 Full-Stack Developer (MERN + Next.js + Python + CI/CD)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" />
