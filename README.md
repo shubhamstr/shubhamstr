@@ -57,7 +57,7 @@
 
 ### 🎯 Goals
 - 🌍 Work on global-scale products  
-- 🇯🇵 Explore career opportunities in Japan  
+- 🇯🇵 Explore career opportunities in AI
 - 🚀 Grow into a system design & architecture expert  
 
 
