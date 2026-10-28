@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Sutar</h1>
-<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + Next.js + Docker + DevOps)</h3>
+<h3 align="center">🚀 Senior Product Engineer | Full-Stack Developer (MERN + Next.js + Python + CI/CD)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamstr&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamstr" />
@@ -10,7 +10,6 @@
 
 ### 💡 About Me
 - 💻 5+ years of experience in Full-Stack Development  
-- 🏢 Senior Product Engineer at **vInnovate Technologies**  
 - 🌱 Currently building scalable apps using **MERN Stack**  
 - ⚡ Passionate about performance, clean architecture & real-world products  
 
