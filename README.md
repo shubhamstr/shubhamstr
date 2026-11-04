@@ -9,9 +9,18 @@
 ---
 
 ### 💡 About Me
-- 💻 5+ years of experience in Full-Stack Development  
-- 🌱 Currently building scalable apps using **MERN Stack**  
-- ⚡ Passionate about performance, clean architecture & real-world products  
+
+💻 Full-Stack Developer with **5+ years of experience** building scalable, high-performance web applications.
+
+🚀 Experienced in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, with a strong focus on backend development, REST API design, system architecture, and performance optimization.
+
+🐍 Expanding my expertise in **Python, AI Agents, Generative AI, and Agentic AI** to build intelligent applications and integrate AI capabilities into real-world products.
+
+⚡ Passionate about clean code, scalable architecture, problem-solving, and continuous learning.
+
+🔧 I enjoy exploring emerging technologies, building practical projects, and turning complex ideas into reliable software solutions.
+
+**Currently focused on:** Full-Stack Development | Python | Generative AI | Agentic AI | MCP (Model Context Protocol)
 
 ---
 
@@ -50,15 +59,20 @@
 
 ### ⚡ Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamstr&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/58a6ff/shubhamstr" alt="Shubham's GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
 
-### 🎯 Goals
-- 🌍 Work on global-scale products  
-- 🇯🇵 Explore career opportunities in AI
-- 🚀 Grow into a system design & architecture expert  
+### 🎯 Goals & Vision
+
+- 🌍 Build and contribute to global-scale products that solve real-world problems.
+- 🤖 Build intelligent AI chatbots, AI-powered applications, and custom MCP (Model Context Protocol) tools.
+- 🧠 Master Generative AI, Agentic AI, LLM integrations, and AI application architecture.
+- 🏗️ Strengthen expertise in system design, backend engineering, and scalable architectures.
+- 🚀 **By 2028:** Become a skilled AI Engineer, specializing in AI Full-Stack or AI Backend Engineering.
+- 🏆 **By 2030:** Grow into an AI Architect or Principal AI Engineer, designing and leading the development of production-grade AI systems and intelligent autonomous agents.
+<!-- - 🇯🇵 Explore international career opportunities, especially in Japan. -->
 
 
 
